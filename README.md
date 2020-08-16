@@ -1,10 +1,10 @@
 ### Hi there 👋
-<img src="https://kapwi.ng/c/tykIq3xn" >
+<img src="https://github.com/ightdragon/ightdragon/blob/master/Always_Has_Been_Astronauts_github.jpeg" >
 <!--
 **ightdragon/ightdragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://kapwi.ng/c/tykIq3xn
 
-https://kapwi.ng/c/tykIq3xn
+
+
 
 
 Here are some ideas to get you started:
